@@ -2,7 +2,9 @@
 
 Super-easy two-step [Flutter](https://flutter.dev) installation with [Homebrew](https://brew.sh) :sunglasses:
 
-This will install the latest `stable` version of the framework directly from the Google's servers. Afterwards you can use `flutter channel [master|dev|beta|stable]` to switch between the different channels :cocktail:
+This will install the latest `stable` version of the framework directly from Google's servers.
+
+Afterwards you can simply use `flutter channel [master|dev|beta|stable]` to switch between the different channels and `flutter upgrade` to upgarde to the latest version in the currently selected channel :cocktail:
 
 ## Installing
 
