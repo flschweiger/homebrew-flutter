@@ -1,7 +1,7 @@
 cask "flutter" do
   version :latest
-  sha256 "0105b4c12d8c5d5f548befd0eabcd633a2ae8cea686635b199ff363337d756a5"
-  url "https://storage.googleapis.com/flutter_infra/releases/stable/macos/flutter_macos_1.17.0-stable.zip"
+  sha256 "598c6341e43421257a57fc17e82f000eb2df3ed9593e6d698fd2a2f62fe1c829"
+  url "https://storage.googleapis.com/flutter_infra/releases/stable/macos/flutter_macos_1.17.1-stable.zip"
 
   name "flutter"
   homepage "https://flutter.dev"
