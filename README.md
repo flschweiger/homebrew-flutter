@@ -2,7 +2,7 @@
 
 Super-easy two-step [Flutter](https://flutter.dev) installation with [Homebrew](https://brew.sh) :sunglasses:
 
-This will install the latest `stable` version of the framework directly from Google's servers.
+This will install the latest [master|dev|beta|stable] version of the framework directly from Google's servers.
 
 Afterwards you can simply use `flutter channel [master|dev|beta|stable]` to switch between the different channels and `flutter upgrade` to upgarde to the latest version in the currently selected channel :cocktail:
 
@@ -10,17 +10,22 @@ Afterwards you can simply use `flutter channel [master|dev|beta|stable]` to swit
 
 ```
 brew tap flschweiger/flutter
-brew cask install flutter
+brew install flutter
 ```
 
 And voilà! You're done :tada:
 
-FYI: You will find your Flutter installation here: `/usr/local/Caskroom/flutter/latest/flutter`.
+FYI: You will find your Flutter installation here: `/usr/local/Cellar/flutter/sdk`.
 
 ## Uninstalling
 ```
-brew cask uninstall flutter
+brew uninstall flutter
 brew untap flschweiger/flutter
 ```
 
 That's already it :put_litter_in_its_place:
+
+## Contributors
+
+- [dancamdev](https://github.com/dancamdev) - Added channel selection :wrench:
+- [passsy](https://github.com/passsy) - Tester & proofreading :eyeglasses:
