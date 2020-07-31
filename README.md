@@ -24,3 +24,8 @@ brew untap flschweiger/flutter
 ```
 
 That's already it :put_litter_in_its_place:
+
+## Contributors
+
+- [dancamdev](https://github.com/dancamdev) - Added channel selection :wrench:
+- [passsy](https://github.com/passsy) - Tester & proofreading :eyeglasses:
