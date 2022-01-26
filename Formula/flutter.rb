@@ -11,8 +11,6 @@ class Flutter < Formula
     option "beta", "Install the latest beta release"
     option "stable", "Install the latest stable release"
   
-    bottle :unneeded
-  
     def install
       puts "\n📡 Retrieving latest release...\n\n"
       releases_json = `curl -A "Flutter SDK Homebrew" https://storage.googleapis.com/flutter_infra/releases/releases_macos.json`
