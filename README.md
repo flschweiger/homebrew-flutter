@@ -1,3 +1,8 @@
+
+> **⚠️ DEPRECATION WARNING ⚠️**\
+> There's a Brew cask which is directly available through `brew install --cask flutter`.\
+> This formula is now deprecated.
+
 # Homebrew Flutter 
 
 Super-easy two-step [Flutter](https://flutter.dev) installation with [Homebrew](https://brew.sh) :sunglasses:
